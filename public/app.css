@@ -1,0 +1,12 @@
+.image-sobre{
+    object-position: center;
+    object-fit: cover;
+    height: 30%;
+    width: 100%;
+}
+
+
+/* Alterando Classes da bootstrap*/
+.carousel-item{
+    height: 300px !important;
+}
